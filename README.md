@@ -1,1 +1,1 @@
-A README for the More Singly Linled Lists
+A README for my C - More singly linked lists projects
